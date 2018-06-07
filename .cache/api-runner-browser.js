@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
-      options: {"plugins":[]},
+      options: {"plugins":[],"trackingId":"..."},
     },{
       plugin: require('/Users/Vikas/learning/vkylamba.github.io/gatsby-browser'),
       options: {"plugins":[]},

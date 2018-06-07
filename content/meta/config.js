@@ -5,7 +5,7 @@ module.exports = {
   shortSiteTitle: "Vikas Lamba", // <title> ending for posts and pages
   siteDescription: "PersonalPage - Vikas Lamba.",
   siteUrl: "https://vkylamba.githubpages.io",
-  pathPrefix: "",
+  pathPrefix: "vkylamba.github.io",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author

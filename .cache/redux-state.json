@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b78c86ff4edd5fb064f46f4475788ed7",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -248,9 +238,9 @@
       "version": "0.0.3",
       "pluginOptions": {
         "plugins": [],
-        "appId": "",
-        "apiKey": "",
-        "indexName": "",
+        "appId": "52L3E864LU",
+        "apiKey": "1fc62c3b3000c06e73ac1323c6caae76",
+        "indexName": "getstarted_actors",
         "queries": [
           {
             "query": "{\n  allMarkdownRemark(filter: { id: { regex: \"//posts|pages//\" } }) {\n    edges {\n      node {\n        objectID: id\n        fields {\n          slug\n        }\n        internal {\n          content\n        }\n        frontmatter {\n          title\n          subTitle\n        }\n      }\n    }\n  }\n}"
@@ -297,7 +287,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2b75fcd1fd7bcf81e9724398bf3da360",
+        "contentDigest": "62caa5e06af2010d1276b261649d2606",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1337,8 +1327,8 @@
       "version": "1.0.25",
       "pluginOptions": {
         "plugins": [],
-        "name": "PersonalBlog - a blog starter for GatsbyJS",
-        "short_name": "PersonalBlog",
+        "name": "PersonalPage - Vikas Lamba",
+        "short_name": "PersonalPage",
         "start_url": "/",
         "background_color": "#ffffff",
         "theme_color": "#ffffff",
@@ -1444,7 +1434,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eadac1fb3e6deb39359fa8e188b5dc71",
+        "contentDigest": "a35da84420eb6055253078b123e61893",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1526,7 +1516,8 @@
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.31",
       "pluginOptions": {
-        "plugins": []
+        "plugins": [],
+        "trackingId": "..."
       },
       "nodeAPIs": [],
       "browserAPIs": [
@@ -1579,7 +1570,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fdf090760b91767fb067a56390623498",
+        "contentDigest": "b9998c2c79e1fe410f8b9d6a24cefafd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2079,29 +2070,27 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "PersonalBlog - a blog starter for GatsbyJS",
-        "description": "PersonalBlog is a GatsbyJS starter.",
-        "siteUrl": "https://gatsby-starter-personal-blog.greglobinski.com",
-        "pathPrefix": "",
+        "title": "PersonalPage - Vikas Lamba",
+        "description": "PersonalPage - Vikas Lamba.",
+        "siteUrl": "https://vkylamba.githubpages.io",
+        "pathPrefix": "vkylamba.github.io",
         "algolia": {
-          "appId": "",
-          "searchOnlyApiKey": "",
-          "indexName": ""
+          "appId": "52L3E864LU",
+          "searchOnlyApiKey": "af6f26864fbf3357eb6d936e577b3eb5",
+          "indexName": "getstarted_actors"
         },
         "facebook": {
-          "appId": ""
+          "appId": "..."
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-07T11:15:43.542Z",
+      "buildTime": "2018-06-07T14:37:20.184Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d87108a888321db06989d71032c1bb2d",
+        "contentDigest": "daba2cc3f37c2a4985bc72408c0cbd5e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2111,7 +2100,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0fa31257b50f166bf4dfe532eec2f24c",
+        "contentDigest": "5f7e313230f37cd67b963ddac3ccc972",
         "type": "Directory",
         "description": "Directory \"content/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2123,7 +2112,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2018-06-07T11:15:40.000Z",
-      "accessTime": "2018-06-07T11:16:21.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T11:15:40.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2141,11 +2130,11 @@
       "blksize": 4096,
       "ino": 21597548,
       "blocks": 0,
-      "atimeMs": 1528370181000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528370140000,
       "ctimeMs": 1528370140000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:21.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T11:15:40.000Z",
       "ctime": "2018-06-07T11:15:40.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2155,7 +2144,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8902e968bc1df0188e435a62a8672f08",
+        "contentDigest": "860956281772e49ada068abe4fdbdb33",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2167,7 +2156,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T11:16:21.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T07:57:22.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2185,11 +2174,11 @@
       "blksize": 4096,
       "ino": 21597534,
       "blocks": 0,
-      "atimeMs": 1528370181000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528358242000,
       "ctimeMs": 1528358242000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:21.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T07:57:22.000Z",
       "ctime": "2018-06-07T07:57:22.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2199,7 +2188,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "83452eb92870b8b55ee1274baf094ab7",
+        "contentDigest": "01ac2dfbbeda126c55c91760f27d4b18",
         "type": "Directory",
         "description": "Directory \"content/pages/1--about\"",
         "owner": "gatsby-source-filesystem"
@@ -2211,7 +2200,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T11:16:21.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T07:57:22.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2229,11 +2218,11 @@
       "blksize": 4096,
       "ino": 21597535,
       "blocks": 0,
-      "atimeMs": 1528370181000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528358242000,
       "ctimeMs": 1528358242000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:21.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T07:57:22.000Z",
       "ctime": "2018-06-07T07:57:22.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2243,7 +2232,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3aeea3b6eebf6e2d8d4b2e38fbefbe13",
+        "contentDigest": "473011bfa838a44c05227be19903e39f",
         "type": "Directory",
         "description": "Directory \"content/pages/2--starters\"",
         "owner": "gatsby-source-filesystem"
@@ -2255,7 +2244,7 @@
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T11:16:21.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T07:57:22.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2273,11 +2262,11 @@
       "blksize": 4096,
       "ino": 21597537,
       "blocks": 0,
-      "atimeMs": 1528370181000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528358242000,
       "ctimeMs": 1528358242000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:21.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T07:57:22.000Z",
       "ctime": "2018-06-07T07:57:22.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2287,7 +2276,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6faf7070c3e11b0b055ae8b12b1cf936",
+        "contentDigest": "4c4952a2212b57b4603cf51e41c1358b",
         "type": "Directory",
         "description": "Directory \"content/pages/success\"",
         "owner": "gatsby-source-filesystem"
@@ -2299,7 +2288,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T11:16:21.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T07:57:22.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2317,11 +2306,11 @@
       "blksize": 4096,
       "ino": 21597542,
       "blocks": 0,
-      "atimeMs": 1528370181000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528358242000,
       "ctimeMs": 1528358242000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:21.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T07:57:22.000Z",
       "ctime": "2018-06-07T07:57:22.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2725,7 +2714,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3058cc2516dac542108a37e98a4f3200",
+        "contentDigest": "c14568494e69a3bdfef77dd8e0ebb8aa",
         "type": "Directory",
         "description": "Directory \"content/parts\"",
         "owner": "gatsby-source-filesystem"
@@ -2737,7 +2726,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T11:16:22.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T07:57:22.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
@@ -2755,11 +2744,11 @@
       "blksize": 4096,
       "ino": 21597544,
       "blocks": 0,
-      "atimeMs": 1528370182000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528358242000,
       "ctimeMs": 1528358242000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T11:16:22.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T07:57:22.000Z",
       "ctime": "2018-06-07T07:57:22.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
@@ -2845,7 +2834,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c5bc3491c2203f492bc9e28f50179e9b",
+        "contentDigest": "0732f1d43d22d8642e4c52c9ce889d68",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"content/parts/author.md\"",
@@ -2855,11 +2844,11 @@
       "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md",
       "relativePath": "author.md",
       "extension": "md",
-      "size": 210,
-      "prettySize": "210 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
+      "size": 211,
+      "prettySize": "211 B",
+      "modifiedTime": "2018-06-07T12:14:53.000Z",
+      "accessTime": "2018-06-07T12:14:58.000Z",
+      "changeTime": "2018-06-07T12:14:53.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
       "dir": "/Users/Vikas/learning/vkylamba.github.io/content/parts",
@@ -2876,41 +2865,14 @@
       "blksize": 4096,
       "ino": 21597545,
       "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
+      "atimeMs": 1528373698000,
+      "mtimeMs": 1528373693000,
+      "ctimeMs": 1528373693000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
+      "atime": "2018-06-07T12:14:58.000Z",
+      "mtime": "2018-06-07T12:14:53.000Z",
+      "ctime": "2018-06-07T12:14:53.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: author\n---\n\n**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "c0601432666dbf90e2df99302f5bde7f",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "author",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md",
-      "fields": {
-        "slug": "/author/",
-        "prefix": ""
-      }
     },
     "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file": {
       "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file",
@@ -3177,6 +3139,54 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: author\n---\n\n**Vikas Lamba** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "d39d13d4bef0787be535da20c5469c4e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "author",
+        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
+        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n**Vikas Lamba** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md",
+      "fields": {
+        "slug": "/author/",
+        "prefix": ""
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a76add8d127172910e915efa905e81aa",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /about/": {
       "layout": "index",
       "jsonName": "about.json",
@@ -3195,7 +3205,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63eca392f497c727f1da1fe163a002be",
+        "contentDigest": "a52ad30bf463e1269db54166ecf6d54d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3218,7 +3228,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51a88e7bb093cae93c8f232d6ed7241e",
+        "contentDigest": "a07b0515a2ab8282efda436c99681c75",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3241,7 +3251,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dcf955a6be9ec921b4b68374833ba3d0",
+        "contentDigest": "c140e8034b3801807b2ff70d0f547f22",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3262,7 +3272,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9a708a4419b8b8db374c1637e612e2b",
+        "contentDigest": "b41a61f9784a904b60273c107442aac9",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3283,7 +3293,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d322f3139cddabb80fe2cfeea1adde10",
+        "contentDigest": "d0235e774e649b60615104bcf55c362a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3304,7 +3314,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eb0d75eb5e376f66616eee29e549db77",
+        "contentDigest": "36eedd5a34cc905556717239b8aab6bd",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3338,9 +3348,11 @@
         "/about/"
       ],
       "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file": [
+        null,
         null
       ],
       "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp": [
+        null,
         null
       ]
     },
