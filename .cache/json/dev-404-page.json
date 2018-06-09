@@ -1,1 +1,1 @@
-{"data":{"allSitePage":{"totalCount":6,"edges":[{"node":{"path":"/about/"}},{"node":{"path":"/starters/"}},{"node":{"path":"/success/"}},{"node":{"path":"/"}},{"node":{"path":"/contact/"}},{"node":{"path":"/search/"}}]}},"pathContext":{}}
+{"data":{"allSitePage":{"totalCount":6,"edges":[{"node":{"path":"/"}},{"node":{"path":"/about/"}},{"node":{"path":"/success/"}},{"node":{"path":"/starters/"}},{"node":{"path":"/contact/"}},{"node":{"path":"/search/"}}]}},"pathContext":{}}

@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
+      plugin: require('/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline/gatsby-browser'),
+      plugin: require('/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline/gatsby-browser'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
+      plugin: require('/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-google-analytics/gatsby-browser'),
       options: {"plugins":[],"trackingId":"..."},
     },{
-      plugin: require('/Users/Vikas/learning/vkylamba.github.io/gatsby-browser'),
+      plugin: require('/Users/Vikas/learning/my_github_page/gatsby-browser'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

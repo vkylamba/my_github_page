@@ -12,7 +12,7 @@
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +24,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +41,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4ca25f9905ce13425bfe4ed51ad4ab63",
+        "contentDigest": "e80097d4e40ea5ed37a7e818d519a5c0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -80,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bccab335cd33e87189808877ef0ee243",
+        "contentDigest": "e3adce4aa2ce9aee1753d28ed0c10c88",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -98,7 +98,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -119,13 +119,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c6ba99c0a143ecebc429420ce744d9d3",
+        "contentDigest": "c63a6854e0ebdc0548226802fb4f99ce",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -138,7 +138,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -155,13 +155,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1e0dc174f0f72fbf07bf0562e48d3418",
+        "contentDigest": "3e74517fef48efb40bc37d5b007e56fc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e38612e327c73982ba946e07cca88a6e",
+        "contentDigest": "3e80874a9c473a1ffa098dc996ff0e0f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -209,7 +209,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -226,13 +226,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "57fac421629c9d81d470951cc4799027",
+        "contentDigest": "241b58bda0c5d7489de1d388b57c7efe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-algolia": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-algolia",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-algolia",
       "id": "Plugin gatsby-plugin-algolia",
       "name": "gatsby-plugin-algolia",
       "version": "0.0.3",
@@ -253,7 +253,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-algolia",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-algolia",
       "packageJson": {
         "name": "gatsby-plugin-algolia",
         "description": "A gatsby plugin to push to Algolia based on a certain query",
@@ -287,20 +287,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "62caa5e06af2010d1276b261649d2606",
+        "contentDigest": "d274d1a898ff48cb374ac1a02d0e0b9d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.38",
       "pluginOptions": {
         "plugins": [],
         "name": "parts",
-        "path": "/Users/Vikas/learning/vkylamba.github.io/content/parts/"
+        "path": "/Users/Vikas/learning/my_github_page/content/parts/"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -308,7 +308,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -390,20 +390,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "15957459488e617b9809bbbe62361dda",
+        "contentDigest": "e57a474d04488ca6acd8687a52127d1f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.42",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sharp",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sharp",
             "id": "Plugin gatsby-plugin-sharp",
             "name": "gatsby-plugin-sharp",
             "version": "1.6.47",
@@ -413,25 +413,29 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sharp"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sharp"
           },
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-images",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "1.5.66",
             "pluginOptions": {
               "plugins": [],
               "maxWidth": 800,
-              "backgroundColor": "transparent"
+              "backgroundColor": "transparent",
+              "wrapperStyle": "",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
             },
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-responsive-iframe",
             "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
             "version": "1.4.19",
@@ -442,10 +446,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-responsive-iframe"
           },
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-prismjs",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-prismjs",
             "id": "Plugin gatsby-remark-prismjs",
             "name": "gatsby-remark-prismjs",
             "version": "1.2.24",
@@ -455,23 +459,30 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-prismjs"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-prismjs"
           },
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-copy-linked-files",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-copy-linked-files",
             "id": "Plugin gatsby-remark-copy-linked-files",
             "name": "gatsby-remark-copy-linked-files",
             "version": "1.5.35",
             "pluginOptions": {
-              "plugins": []
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
             },
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-copy-linked-files"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-copy-linked-files"
           },
           {
-            "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-smartypants",
+            "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-smartypants",
             "id": "Plugin gatsby-remark-smartypants",
             "name": "gatsby-remark-smartypants",
             "version": "1.4.12",
@@ -481,7 +492,7 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-smartypants"
+            "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-smartypants"
           }
         ]
       },
@@ -491,7 +502,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -610,13 +621,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2d677829ea90e8df16d73046d303eb78",
+        "contentDigest": "ee5d8a2762bbaaea6c32b332dbf4dc61",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "1.6.47",
@@ -626,7 +637,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -719,13 +730,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6e648f3f8dccd2a8bb53be269dbe3ed6",
+        "contentDigest": "dbe416f4d5e92fe9c0d6571d7019ed13",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-images",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "1.5.66",
@@ -737,7 +748,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -803,13 +814,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "aba5db3d2425100730158483e472003e",
+        "contentDigest": "952cd31b264198513a7e9038d96b61ca",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-responsive-iframe",
       "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
       "version": "1.4.19",
@@ -820,7 +831,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -883,13 +894,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "58b6a194e017bb1bea3d528f437b49cb",
+        "contentDigest": "9e340d39b26866401739cf6f4392cf53",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-prismjs": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-prismjs",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-prismjs",
       "id": "Plugin gatsby-remark-prismjs",
       "name": "gatsby-remark-prismjs",
       "version": "1.2.24",
@@ -899,7 +910,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-prismjs",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-prismjs",
       "packageJson": {
         "name": "gatsby-remark-prismjs",
         "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
@@ -955,13 +966,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6d9a0dd92f32c6e7be184ac7f39840b6",
+        "contentDigest": "a6b78f4a22370f63cccc1a7dcbfbdb8f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-copy-linked-files": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-copy-linked-files",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-copy-linked-files",
       "id": "Plugin gatsby-remark-copy-linked-files",
       "name": "gatsby-remark-copy-linked-files",
       "version": "1.5.35",
@@ -971,7 +982,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-copy-linked-files",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
@@ -1039,13 +1050,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6221815bac06098e3bdbd083fa363e0b",
+        "contentDigest": "25f58c267c015decad8f250a394274f0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-smartypants": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-smartypants",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-smartypants",
       "id": "Plugin gatsby-remark-smartypants",
       "name": "gatsby-remark-smartypants",
       "version": "1.4.12",
@@ -1055,7 +1066,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-remark-smartypants",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-remark-smartypants",
       "packageJson": {
         "name": "gatsby-remark-smartypants",
         "description": "Use retext-smartypants to auto-enhance typography of markdown",
@@ -1106,13 +1117,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b682a0f5b0da75f1776b0f04ce37743",
+        "contentDigest": "a4e153b24901638e0a0f54fe93fd53c7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-sharp": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
       "version": "1.6.26",
@@ -1126,7 +1137,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -1177,13 +1188,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "716307736778c50d61bb9812c83c3295",
+        "contentDigest": "0d659a6bc53a9044ac5bb3df5c480754",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.11",
@@ -1195,7 +1206,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -1254,13 +1265,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "34f6de2d5770883a17ddae386939fa0d",
+        "contentDigest": "828d4d9161dd05ca3b454bfc873748ed",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-catch-links",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "1.0.22",
@@ -1272,7 +1283,7 @@
         "onClientEntry"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -1315,13 +1326,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4652e97303ed6cc2aaad5d851754cd09",
+        "contentDigest": "756afd33183505a650e3157b9f7eef9a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "1.0.25",
@@ -1378,7 +1389,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
@@ -1434,13 +1445,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a35da84420eb6055253078b123e61893",
+        "contentDigest": "35c444d8b0cdf5ff95748522bbc8b7c0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "1.0.18",
@@ -1455,7 +1466,7 @@
         "registerServiceWorker"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1505,13 +1516,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b16b26a9d1032f5ad7de2120ade5e50",
+        "contentDigest": "6f1d52bb3524b4f7d49fd6938da6764a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.31",
@@ -1526,7 +1537,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -1570,13 +1581,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b9998c2c79e1fe410f8b9d6a24cefafd",
+        "contentDigest": "85614810d42e66ddb39d5d7b8a6f8879",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-feed": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-feed",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-feed",
       "id": "Plugin gatsby-plugin-feed",
       "name": "gatsby-plugin-feed",
       "version": "1.3.24",
@@ -1597,7 +1608,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-feed",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-feed",
       "packageJson": {
         "name": "gatsby-plugin-feed",
         "description": "Creates an RSS feed for your Gatsby site.",
@@ -1655,13 +1666,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bc5a1c9d4d16ec9bc4dfd5ae158aacbe",
+        "contentDigest": "aff1c9e926e913c493463bd1bdfffce5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sitemap": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sitemap",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sitemap",
       "id": "Plugin gatsby-plugin-sitemap",
       "name": "gatsby-plugin-sitemap",
       "version": "1.2.25",
@@ -1675,7 +1686,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-sitemap",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-sitemap",
       "packageJson": {
         "name": "gatsby-plugin-sitemap",
         "description": "Gatsby plugin that automatically creates a sitemap for your site",
@@ -1725,13 +1736,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c5fb68a07d8de62034b446f48a63bd07",
+        "contentDigest": "84f0a665bdf896aa00d5b9973a3be5bd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-svgr": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-svgr",
+      "resolve": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-svgr",
       "id": "Plugin gatsby-plugin-svgr",
       "name": "gatsby-plugin-svgr",
       "version": "1.0.0",
@@ -1743,7 +1754,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-svgr",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-svgr",
       "packageJson": {
         "name": "gatsby-plugin-svgr",
         "description": "Svgr plugin for gatsby",
@@ -1774,13 +1785,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4e36246408aa27176eb2f9c7b7e60ce1",
+        "contentDigest": "7071bb20ade0d80c91daec24dda3a935",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/Vikas/learning/vkylamba.github.io",
+      "resolve": "/Users/Vikas/learning/my_github_page",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "ff3c10f84438dc2e6f77031f184dfbca",
@@ -1801,7 +1812,7 @@
         "replaceRenderer",
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/Vikas/learning/vkylamba.github.io",
+      "pluginFilepath": "/Users/Vikas/learning/my_github_page",
       "packageJson": {
         "name": "gatsby-starter-personal-blog",
         "description": "A Gatsby starter for a personal blog",
@@ -2063,7 +2074,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3ef78df51daf8c4e692924778a7a5e28",
+        "contentDigest": "765947fadcebd7df18db7b59459597eb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2085,38 +2096,38 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-07T14:37:20.184Z",
+      "buildTime": "2018-06-09T10:40:03.743Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "daba2cc3f37c2a4985bc72408c0cbd5e",
+        "contentDigest": "920aa72b50e03b3f7e807284b91a3a8d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/ absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/ absPath of file",
+    "/Users/Vikas/learning/my_github_page/content/posts/ absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/ absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5f7e313230f37cd67b963ddac3ccc972",
+        "contentDigest": "4f94deccb86ce95f02649cb23da05380",
         "type": "Directory",
         "description": "Directory \"content/posts\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/posts/",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/posts/",
       "relativePath": "",
       "extension": "",
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2018-06-07T11:15:40.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
       "changeTime": "2018-06-07T11:15:40.000Z",
       "birthTime": "2018-06-07T07:57:22.000Z",
       "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content",
+      "dir": "/Users/Vikas/learning/my_github_page/content",
       "base": "posts",
       "ext": "",
       "name": "posts",
@@ -2130,828 +2141,19 @@
       "blksize": 4096,
       "ino": 21597548,
       "blocks": 0,
-      "atimeMs": 1528382251000,
+      "atimeMs": 1528540827000,
       "mtimeMs": 1528370140000,
       "ctimeMs": 1528370140000,
       "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
+      "atime": "2018-06-09T10:40:27.000Z",
       "mtime": "2018-06-07T11:15:40.000Z",
       "ctime": "2018-06-07T11:15:40.000Z",
       "birthtime": "2018-06-07T07:57:22.000Z"
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/ absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/ absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "860956281772e49ada068abe4fdbdb33",
-        "type": "Directory",
-        "description": "Directory \"content/pages\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/",
-      "relativePath": "",
-      "extension": "",
-      "size": 170,
-      "prettySize": "170 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content",
-      "base": "pages",
-      "ext": "",
-      "name": "pages",
-      "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 5,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597534,
-      "blocks": 0,
-      "atimeMs": 1528382251000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "01ac2dfbbeda126c55c91760f27d4b18",
-        "type": "Directory",
-        "description": "Directory \"content/pages/1--about\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about",
-      "relativePath": "1--about",
-      "extension": "",
-      "size": 102,
-      "prettySize": "102 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages",
-      "base": "1--about",
-      "ext": "",
-      "name": "1--about",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597535,
-      "blocks": 0,
-      "atimeMs": 1528382251000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "473011bfa838a44c05227be19903e39f",
-        "type": "Directory",
-        "description": "Directory \"content/pages/2--starters\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters",
-      "relativePath": "2--starters",
-      "extension": "",
-      "size": 204,
-      "prettySize": "204 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages",
-      "base": "2--starters",
-      "ext": "",
-      "name": "2--starters",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 6,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597537,
-      "blocks": 0,
-      "atimeMs": 1528382251000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/success absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "4c4952a2212b57b4603cf51e41c1358b",
-        "type": "Directory",
-        "description": "Directory \"content/pages/success\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success",
-      "relativePath": "success",
-      "extension": "",
-      "size": 102,
-      "prettySize": "102 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages",
-      "base": "success",
-      "ext": "",
-      "name": "success",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597542,
-      "blocks": 0,
-      "atimeMs": 1528382251000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file",
+    "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file",
       "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3978bd258f9082e1130a66fd92ffc291",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/pages/1--about/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md",
-      "relativePath": "1--about/index.md",
-      "extension": "md",
-      "size": 1368,
-      "prettySize": "1.37 kB",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "1--about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597536,
-      "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "da20bffedeb357d7a6db5b82aee0db07",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/pages/2--starters/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md",
-      "relativePath": "2--starters/index.md",
-      "extension": "md",
-      "size": 705,
-      "prettySize": "705 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2--starters",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597540,
-      "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "description": "File \"content/pages/2--starters/gatsby-styled-blog-starter.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg",
-      "relativePath": "2--starters/gatsby-styled-blog-starter.jpg",
-      "extension": "jpg",
-      "size": 127689,
-      "prettySize": "128 kB",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters",
-      "base": "gatsby-styled-blog-starter.jpg",
-      "ext": ".jpg",
-      "name": "gatsby-styled-blog-starter",
-      "relativeDirectory": "2--starters",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597539,
-      "blocks": 256,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "94d665fb2b8fcd20e01007e5b33e27b4",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/pages/success/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md",
-      "relativePath": "success/index.md",
-      "extension": "md",
-      "size": 85,
-      "prettySize": "85 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "success",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597543,
-      "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
-      "internal": {
-        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: About\n---\n\nThis is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.\n\nThe starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.\n\n### Standard features:\n\n* Easy editable content in **Markdown** files (posts, pages and parts)\n* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)\n* **Social** sharing (Twitter, Facebook, Google, LinkedIn)\n* **Comments** (Facebook)\n* **Images** lazy loading and `webp` support (gatsby-image)\n* Post **categories** (post list filtering)\n* Full text **searching** (Algolia)\n* **Contact** form (Netlify form handling)\n* **RSS** feed\n* **PWA** (manifes.json, offline support, favicons)\n* Google **Analytics**\n* **Favicons** generator (node script)\n* **Material UI** (@next)\n\n### Advanced features:\n\n* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)\n* **Components** lazy loading (social sharing, comments)\n* **ESLint** (google config)\n* **Prettier** code styling\n* Custom webpack `CommonsChunkPlugin` settings\n* Webpack `BundleAnalyzerPlugin`\n* Contact **form validation** (react-material-ui-form-validator)\n\n## Instructions\n\nFor detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "0add8fe0f735319534f47d1c3cb6eec4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nThis is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.\n\nThe starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.\n\n### Standard features:\n\n* Easy editable content in **Markdown** files (posts, pages and parts)\n* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)\n* **Social** sharing (Twitter, Facebook, Google, LinkedIn)\n* **Comments** (Facebook)\n* **Images** lazy loading and `webp` support (gatsby-image)\n* Post **categories** (post list filtering)\n* Full text **searching** (Algolia)\n* **Contact** form (Netlify form handling)\n* **RSS** feed\n* **PWA** (manifes.json, offline support, favicons)\n* Google **Analytics**\n* **Favicons** generator (node script)\n* **Material UI** (@next)\n\n### Advanced features:\n\n* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)\n* **Components** lazy loading (social sharing, comments)\n* **ESLint** (google config)\n* **Prettier** code styling\n* Custom webpack `CommonsChunkPlugin` settings\n* Webpack `BundleAnalyzerPlugin`\n* Contact **form validation** (react-material-ui-form-validator)\n\n## Instructions\n\nFor detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/1--about/index.md",
-      "fields": {
-        "slug": "/about/",
-        "prefix": "1"
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Other GatsbyJs starters\nmenuTitle: My starters\n---\n\n[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.\n\n![SimpleLanding](./gatsby-starter-simple-landing.png)\n\n### SimpleLanding\n\nAs the name says, it is a landing page starter.\n[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)\n\n![StyledBlog](./gatsby-styled-blog-starter.jpg)\n\n### StyledBlog\n\nThat was my first Gatsby starter. It is a forefather of the starter you are looking at now.\n[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "d4522e6533b0d729e44f24343680fcec",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Other GatsbyJs starters",
-        "menuTitle": "My starters",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.\n\n![SimpleLanding](./gatsby-starter-simple-landing.png)\n\n### SimpleLanding\n\nAs the name says, it is a landing page starter.\n[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)\n\n![StyledBlog](./gatsby-styled-blog-starter.jpg)\n\n### StyledBlog\n\nThat was my first Gatsby starter. It is a forefather of the starter you are looking at now.\n[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/index.md",
-      "fields": {
-        "slug": "/starters/",
-        "prefix": "2"
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"content/pages/2--starters/gatsby-starter-simple-landing.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png",
-      "relativePath": "2--starters/gatsby-starter-simple-landing.png",
-      "extension": "png",
-      "size": 329808,
-      "prettySize": "330 kB",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters",
-      "base": "gatsby-starter-simple-landing.png",
-      "ext": ".png",
-      "name": "gatsby-starter-simple-landing",
-      "relativeDirectory": "2--starters",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597538,
-      "blocks": 648,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
-      "internal": {
-        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Success\n---\n\nThank you. I will answer to the message as soon as possible.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "5f1251f4fc5ddb1c7601f47cfda5f32c",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Success",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nThank you. I will answer to the message as soon as possible.\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/success/index.md",
-      "fields": {
-        "slug": "/success/",
-        "prefix": ""
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
-        "mediaType": "image/png",
-        "type": "File",
-        "description": "File \"content/pages/2--starters/user-experience-notes.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png",
-      "relativePath": "2--starters/user-experience-notes.png",
-      "extension": "png",
-      "size": 161686,
-      "prettySize": "162 kB",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters",
-      "base": "user-experience-notes.png",
-      "ext": ".png",
-      "name": "user-experience-notes",
-      "relativeDirectory": "2--starters",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597541,
-      "blocks": 320,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/pages/2--starters/user-experience-notes.png absPath of file",
-      "internal": {
-        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/ absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/ absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c14568494e69a3bdfef77dd8e0ebb8aa",
-        "type": "Directory",
-        "description": "Directory \"content/parts\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "parts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/",
-      "relativePath": "",
-      "extension": "",
-      "size": 170,
-      "prettySize": "170 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T14:37:31.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content",
-      "base": "parts",
-      "ext": "",
-      "name": "parts",
-      "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 5,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597544,
-      "blocks": 0,
-      "atimeMs": 1528382251000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T14:37:31.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9c8f96316c5e7a0e967b2a39ee944fe9",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/parts/footnote.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "parts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md",
-      "relativePath": "footnote.md",
-      "extension": "md",
-      "size": 404,
-      "prettySize": "404 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/parts",
-      "base": "footnote.md",
-      "ext": ".md",
-      "name": "footnote",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597546,
-      "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: footnote\n---\n\n* this is a demo site of the [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog)\n* built by [greg lobinski](https://www.greglobinski.com)\n* GatsbyJS, ReactJs, CSS in JS - [Front-end web development with Greg](https://dev.greglobinski.com)\n* deliverd by [Netlify](https://www.netlify.com/)\n* photos by [unsplash.com](https://unsplash.com)\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b613b8210a8828c87811472cf2947cad",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "footnote",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n* this is a demo site of the [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog)\n* built by [greg lobinski](https://www.greglobinski.com)\n* GatsbyJS, ReactJs, CSS in JS - [Front-end web development with Greg](https://dev.greglobinski.com)\n* deliverd by [Netlify](https://www.netlify.com/)\n* photos by [unsplash.com](https://unsplash.com)\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/footnote.md",
-      "fields": {
-        "slug": "/footnote/",
-        "prefix": ""
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "0732f1d43d22d8642e4c52c9ce889d68",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/parts/author.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "parts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md",
-      "relativePath": "author.md",
-      "extension": "md",
-      "size": 211,
-      "prettySize": "211 B",
-      "modifiedTime": "2018-06-07T12:14:53.000Z",
-      "accessTime": "2018-06-07T12:14:58.000Z",
-      "changeTime": "2018-06-07T12:14:53.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/parts",
-      "base": "author.md",
-      "ext": ".md",
-      "name": "author",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597545,
-      "blocks": 8,
-      "atimeMs": 1528373698000,
-      "mtimeMs": 1528373693000,
-      "ctimeMs": 1528373693000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T12:14:58.000Z",
-      "mtime": "2018-06-07T12:14:53.000Z",
-      "ctime": "2018-06-07T12:14:53.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a326c5dae90177c3102579b104aff1f3",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"content/parts/info.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "parts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md",
-      "relativePath": "info.md",
-      "extension": "md",
-      "size": 122,
-      "prettySize": "122 B",
-      "modifiedTime": "2018-06-07T07:57:22.000Z",
-      "accessTime": "2018-06-07T09:28:18.000Z",
-      "changeTime": "2018-06-07T07:57:22.000Z",
-      "birthTime": "2018-06-07T07:57:22.000Z",
-      "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/parts",
-      "base": "info.md",
-      "ext": ".md",
-      "name": "info",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 21597547,
-      "blocks": 8,
-      "atimeMs": 1528363698000,
-      "mtimeMs": 1528358242000,
-      "ctimeMs": 1528358242000,
-      "birthtimeMs": 1528358242000,
-      "atime": "2018-06-07T09:28:18.000Z",
-      "mtime": "2018-06-07T07:57:22.000Z",
-      "ctime": "2018-06-07T07:57:22.000Z",
-      "birthtime": "2018-06-07T07:57:22.000Z"
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: info\n---\n\nI am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "40552e846236549f4178e3992a488a51",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "info",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nI am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/info.md",
-      "fields": {
-        "slug": "/info/",
-        "prefix": ""
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file",
-      "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file >>> MarkdownRemark"
+        "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -2962,17 +2164,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/posts/index.md",
       "relativePath": "index.md",
       "extension": "md",
       "size": 2476,
       "prettySize": "2.48 kB",
       "modifiedTime": "2018-06-07T11:15:40.000Z",
-      "accessTime": "2018-06-07T11:15:49.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T11:15:40.000Z",
       "birthTime": "2018-06-07T11:15:40.000Z",
       "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/posts",
+      "dir": "/Users/Vikas/learning/my_github_page/content/posts",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2986,19 +2188,49 @@
       "blksize": 4096,
       "ino": 21772829,
       "blocks": 8,
-      "atimeMs": 1528370149000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528370140000,
       "ctimeMs": 1528370140000,
       "birthtimeMs": 1528370140000,
-      "atime": "2018-06-07T11:15:49.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T11:15:40.000Z",
       "ctime": "2018-06-07T11:15:40.000Z",
       "birthtime": "2018-06-07T11:15:40.000Z"
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file",
+    "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Two things are infinite the universe and human stupidity\nsubTitle: And I'm not sure about the universe.\ncategory: \"sayings\"\ncover: photo-1490474418585-ba9bad8fd0ea-cover.jpg\n---\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\n\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\n\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\n\n### Cras semper consectetur elementum\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "09523bc6ab75670d88d875b6405d7604",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Two things are infinite the universe and human stupidity",
+        "subTitle": "And I'm not sure about the universe.",
+        "category": "sayings",
+        "cover": "photo-1490474418585-ba9bad8fd0ea-cover.jpg",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/posts/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\n\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\n\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\n\n### Cras semper consectetur elementum\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/posts/index.md",
+      "fields": {
+        "slug": "/",
+        "prefix": ""
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file",
       "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp"
+        "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -3009,17 +2241,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg",
       "relativePath": "photo-1490474418585-ba9bad8fd0ea-cover.jpg",
       "extension": "jpg",
       "size": 46582,
       "prettySize": "46.6 kB",
       "modifiedTime": "2018-06-07T11:15:40.000Z",
-      "accessTime": "2018-06-07T11:15:40.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T11:15:40.000Z",
       "birthTime": "2018-06-07T11:15:40.000Z",
       "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/posts",
+      "dir": "/Users/Vikas/learning/my_github_page/content/posts",
       "base": "photo-1490474418585-ba9bad8fd0ea-cover.jpg",
       "ext": ".jpg",
       "name": "photo-1490474418585-ba9bad8fd0ea-cover",
@@ -3033,59 +2265,29 @@
       "blksize": 4096,
       "ino": 21772830,
       "blocks": 96,
-      "atimeMs": 1528370140000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528370140000,
       "ctimeMs": 1528370140000,
       "birthtimeMs": 1528370140000,
-      "atime": "2018-06-07T11:15:40.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T11:15:40.000Z",
       "ctime": "2018-06-07T11:15:40.000Z",
       "birthtime": "2018-06-07T11:15:40.000Z"
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp",
+    "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file",
+      "parent": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file",
       "internal": {
         "contentDigest": "1b0e3b65008965142a63adb983e4a904",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: Two things are infinite the universe and human stupidity\nsubTitle: And I'm not sure about the universe.\ncategory: \"sayings\"\ncover: photo-1490474418585-ba9bad8fd0ea-cover.jpg\n---\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\n\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\n\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\n\n### Cras semper consectetur elementum\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "07d2d31323e96e9bc1e5ddb7d7515328",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Two things are infinite the universe and human stupidity",
-        "subTitle": "And I'm not sure about the universe.",
-        "category": "sayings",
-        "cover": "photo-1490474418585-ba9bad8fd0ea-cover.jpg",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\nFusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.\n\n> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.\n\nNullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.\n\n### Cras semper consectetur elementum\n\nPellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n\n![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)\n\nProin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/posts/index.md",
-      "fields": {
-        "slug": "/",
-        "prefix": ""
-      }
-    },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file",
+    "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file",
       "children": [
-        "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp"
+        "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -3096,17 +2298,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg",
       "relativePath": "photo-1490474418585-ba9bad8fd0ea.jpg",
       "extension": "jpg",
       "size": 347575,
       "prettySize": "348 kB",
       "modifiedTime": "2018-06-07T11:15:40.000Z",
-      "accessTime": "2018-06-07T11:15:40.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
       "changeTime": "2018-06-07T11:15:40.000Z",
       "birthTime": "2018-06-07T11:15:40.000Z",
       "root": "/",
-      "dir": "/Users/Vikas/learning/vkylamba.github.io/content/posts",
+      "dir": "/Users/Vikas/learning/my_github_page/content/posts",
       "base": "photo-1490474418585-ba9bad8fd0ea.jpg",
       "ext": ".jpg",
       "name": "photo-1490474418585-ba9bad8fd0ea",
@@ -3120,33 +2322,787 @@
       "blksize": 4096,
       "ino": 21772831,
       "blocks": 680,
-      "atimeMs": 1528370140000,
+      "atimeMs": 1528382251000,
       "mtimeMs": 1528370140000,
       "ctimeMs": 1528370140000,
       "birthtimeMs": 1528370140000,
-      "atime": "2018-06-07T11:15:40.000Z",
+      "atime": "2018-06-07T14:37:31.000Z",
       "mtime": "2018-06-07T11:15:40.000Z",
       "ctime": "2018-06-07T11:15:40.000Z",
       "birthtime": "2018-06-07T11:15:40.000Z"
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp",
+    "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file",
+      "parent": "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea.jpg absPath of file",
       "internal": {
         "contentDigest": "69657d5d9f9e2a2aa0aa1c3e268ce4a1",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file >>> MarkdownRemark",
+    "/Users/Vikas/learning/my_github_page/content/pages/ absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/ absPath of file",
       "children": [],
-      "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntitle: author\n---\n\n**Vikas Lamba** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
+        "contentDigest": "cff1e437e96af7f4c6a8388ec27b2a12",
+        "type": "Directory",
+        "description": "Directory \"content/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/",
+      "relativePath": "",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597534,
+      "blocks": 0,
+      "atimeMs": 1528540827000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:40:27.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/1--about absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/1--about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ead887e4bf98053ac6ceb928c744ad37",
+        "type": "Directory",
+        "description": "Directory \"content/pages/1--about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/1--about",
+      "relativePath": "1--about",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages",
+      "base": "1--about",
+      "ext": "",
+      "name": "1--about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597535,
+      "blocks": 0,
+      "atimeMs": 1528540827000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:40:27.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b3df64b6e8494e0d7345bd3b7c973e4a",
+        "type": "Directory",
+        "description": "Directory \"content/pages/2--starters\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters",
+      "relativePath": "2--starters",
+      "extension": "",
+      "size": 204,
+      "prettySize": "204 B",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages",
+      "base": "2--starters",
+      "ext": "",
+      "name": "2--starters",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597537,
+      "blocks": 0,
+      "atimeMs": 1528540827000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:40:27.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/success absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/success absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23db1e684a158473cb6751aab7aa5b5a",
+        "type": "Directory",
+        "description": "Directory \"content/pages/success\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/success",
+      "relativePath": "success",
+      "extension": "",
+      "size": 102,
+      "prettySize": "102 B",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages",
+      "base": "success",
+      "ext": "",
+      "name": "success",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597542,
+      "blocks": 0,
+      "atimeMs": 1528540827000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:40:27.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c83fa0c7aa5a90b20484b96fcfbc57b3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/pages/1--about/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md",
+      "relativePath": "1--about/index.md",
+      "extension": "md",
+      "size": 431,
+      "prettySize": "431 B",
+      "modifiedTime": "2018-06-09T10:41:26.000Z",
+      "accessTime": "2018-06-09T10:41:21.000Z",
+      "changeTime": "2018-06-09T10:41:26.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/1--about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "1--about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597536,
+      "blocks": 8,
+      "atimeMs": 1528540881000,
+      "mtimeMs": 1528540886000,
+      "ctimeMs": 1528540886000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:41:21.000Z",
+      "mtime": "2018-06-09T10:41:26.000Z",
+      "ctime": "2018-06-09T10:41:26.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "94d665fb2b8fcd20e01007e5b33e27b4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/pages/success/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md",
+      "relativePath": "success/index.md",
+      "extension": "md",
+      "size": 85,
+      "prettySize": "85 B",
+      "modifiedTime": "2018-06-09T10:26:55.000Z",
+      "accessTime": "2018-06-09T10:26:54.000Z",
+      "changeTime": "2018-06-09T10:26:55.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/success",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "success",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597543,
+      "blocks": 8,
+      "atimeMs": 1528540014000,
+      "mtimeMs": 1528540015000,
+      "ctimeMs": 1528540015000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:26:54.000Z",
+      "mtime": "2018-06-09T10:26:55.000Z",
+      "ctime": "2018-06-09T10:26:55.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"content/pages/2--starters/gatsby-styled-blog-starter.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg",
+      "relativePath": "2--starters/gatsby-styled-blog-starter.jpg",
+      "extension": "jpg",
+      "size": 127689,
+      "prettySize": "128 kB",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/2--starters",
+      "base": "gatsby-styled-blog-starter.jpg",
+      "ext": ".jpg",
+      "name": "gatsby-styled-blog-starter",
+      "relativeDirectory": "2--starters",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597539,
+      "blocks": 256,
+      "atimeMs": 1528382251000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-07T14:37:31.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24ce47b1f9af350cb0ac620739bcfb55",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/pages/2--starters/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md",
+      "relativePath": "2--starters/index.md",
+      "extension": "md",
+      "size": 693,
+      "prettySize": "693 B",
+      "modifiedTime": "2018-06-09T10:39:45.000Z",
+      "accessTime": "2018-06-09T10:39:30.000Z",
+      "changeTime": "2018-06-09T10:39:45.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/2--starters",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2--starters",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597540,
+      "blocks": 8,
+      "atimeMs": 1528540770000,
+      "mtimeMs": 1528540785000,
+      "ctimeMs": 1528540785000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:39:30.000Z",
+      "mtime": "2018-06-09T10:39:45.000Z",
+      "ctime": "2018-06-09T10:39:45.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-styled-blog-starter.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b503c22609fe4756f2162a602a9bc73a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"content/pages/2--starters/user-experience-notes.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png",
+      "relativePath": "2--starters/user-experience-notes.png",
+      "extension": "png",
+      "size": 161686,
+      "prettySize": "162 kB",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/2--starters",
+      "base": "user-experience-notes.png",
+      "ext": ".png",
+      "name": "user-experience-notes",
+      "relativeDirectory": "2--starters",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597541,
+      "blocks": 320,
+      "atimeMs": 1528382251000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-07T14:37:31.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/user-experience-notes.png absPath of file",
+      "internal": {
+        "contentDigest": "089c1d272e5cae578ce801a29fab581a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"content/pages/2--starters/gatsby-starter-simple-landing.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png",
+      "relativePath": "2--starters/gatsby-starter-simple-landing.png",
+      "extension": "png",
+      "size": 329808,
+      "prettySize": "330 kB",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-07T14:37:31.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/pages/2--starters",
+      "base": "gatsby-starter-simple-landing.png",
+      "ext": ".png",
+      "name": "gatsby-starter-simple-landing",
+      "relativeDirectory": "2--starters",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597538,
+      "blocks": 648,
+      "atimeMs": 1528382251000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-07T14:37:31.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/gatsby-starter-simple-landing.png absPath of file",
+      "internal": {
+        "contentDigest": "3494b63cc6347858cbda9823e24ee1aa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/ absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "25eeaea38792d5c9c5751c6f2cb038af",
+        "type": "Directory",
+        "description": "Directory \"content/parts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/parts/",
+      "relativePath": "",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-06-07T07:57:22.000Z",
+      "accessTime": "2018-06-09T10:40:27.000Z",
+      "changeTime": "2018-06-07T07:57:22.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content",
+      "base": "parts",
+      "ext": "",
+      "name": "parts",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597544,
+      "blocks": 0,
+      "atimeMs": 1528540827000,
+      "mtimeMs": 1528358242000,
+      "ctimeMs": 1528358242000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:40:27.000Z",
+      "mtime": "2018-06-07T07:57:22.000Z",
+      "ctime": "2018-06-07T07:57:22.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "04de83b3d9b9cf395ac03f44ec81e250",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/parts/author.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/parts/author.md",
+      "relativePath": "author.md",
+      "extension": "md",
+      "size": 40,
+      "prettySize": "40 B",
+      "modifiedTime": "2018-06-09T10:36:26.000Z",
+      "accessTime": "2018-06-09T10:26:45.000Z",
+      "changeTime": "2018-06-09T10:36:26.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/parts",
+      "base": "author.md",
+      "ext": ".md",
+      "name": "author",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597545,
+      "blocks": 8,
+      "atimeMs": 1528540005000,
+      "mtimeMs": 1528540586000,
+      "ctimeMs": 1528540586000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:26:45.000Z",
+      "mtime": "2018-06-09T10:36:26.000Z",
+      "ctime": "2018-06-09T10:36:26.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b8a4f05b93d9b902f98c0d4b0bc6d8ee",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/parts/footnote.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md",
+      "relativePath": "footnote.md",
+      "extension": "md",
+      "size": 34,
+      "prettySize": "34 B",
+      "modifiedTime": "2018-06-09T10:24:35.000Z",
+      "accessTime": "2018-06-09T10:24:23.000Z",
+      "changeTime": "2018-06-09T10:24:35.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/parts",
+      "base": "footnote.md",
+      "ext": ".md",
+      "name": "footnote",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597546,
+      "blocks": 8,
+      "atimeMs": 1528539863000,
+      "mtimeMs": 1528539875000,
+      "ctimeMs": 1528539875000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:24:23.000Z",
+      "mtime": "2018-06-09T10:24:35.000Z",
+      "ctime": "2018-06-09T10:24:35.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file",
+      "children": [
+        "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9ba5b37d06611f7203f58b9a4bca0940",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"content/parts/info.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "parts",
+      "absolutePath": "/Users/Vikas/learning/my_github_page/content/parts/info.md",
+      "relativePath": "info.md",
+      "extension": "md",
+      "size": 116,
+      "prettySize": "116 B",
+      "modifiedTime": "2018-06-09T10:17:28.000Z",
+      "accessTime": "2018-06-09T10:16:16.000Z",
+      "changeTime": "2018-06-09T10:17:28.000Z",
+      "birthTime": "2018-06-07T07:57:22.000Z",
+      "root": "/",
+      "dir": "/Users/Vikas/learning/my_github_page/content/parts",
+      "base": "info.md",
+      "ext": ".md",
+      "name": "info",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 21597547,
+      "blocks": 8,
+      "atimeMs": 1528539376000,
+      "mtimeMs": 1528539448000,
+      "ctimeMs": 1528539448000,
+      "birthtimeMs": 1528358242000,
+      "atime": "2018-06-09T10:16:16.000Z",
+      "mtime": "2018-06-09T10:17:28.000Z",
+      "ctime": "2018-06-09T10:17:28.000Z",
+      "birthtime": "2018-06-07T07:57:22.000Z"
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: info\n---\n\nI am Full Stack Developer, and also active in the field of Renewable Energy, and Electronics. \n",
         "type": "MarkdownRemark",
-        "contentDigest": "d39d13d4bef0787be535da20c5469c4e",
+        "contentDigest": "bbf80258b4981bcd47802569f8e0f69d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "info",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/parts/info.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nI am Full Stack Developer, and also active in the field of Renewable Energy, and Electronics. \n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/parts/info.md",
+      "fields": {
+        "slug": "/info/",
+        "prefix": ""
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: footnote\n---\n\n* GitHub\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "2245478111ac84f272f953cd8513fc38",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "footnote",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n* GitHub\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/parts/footnote.md",
+      "fields": {
+        "slug": "/footnote/",
+        "prefix": ""
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Success\n---\n\nThank you. I will answer to the message as soon as possible.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "4f1380e051262c0fea1a352a6709ab2a",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Success",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nThank you. I will answer to the message as soon as possible.\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/pages/success/index.md",
+      "fields": {
+        "slug": "/success/",
+        "prefix": ""
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: author\n---\n\n**Vikas Lamba** \n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1f0e1f98ed6afda0444f881cd8722128",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -3155,15 +3111,43 @@
       },
       "frontmatter": {
         "title": "author",
-        "_PARENT": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file",
-        "parent": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md absPath of file"
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/parts/author.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n**Vikas Lamba** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:\n",
-      "fileAbsolutePath": "/Users/Vikas/learning/vkylamba.github.io/content/parts/author.md",
+      "rawMarkdownBody": "\n**Vikas Lamba** \n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/parts/author.md",
       "fields": {
         "slug": "/author/",
         "prefix": ""
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: My Projects\nmenuTitle: My Projects\n---\n\n[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.\n\n![SimpleLanding](./gatsby-starter-simple-landing.png)\n\n### SimpleLanding\n\nAs the name says, it is a landing page starter.\n[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)\n\n![StyledBlog](./gatsby-styled-blog-starter.jpg)\n\n### StyledBlog\n\nThat was my first Gatsby starter. It is a forefather of the starter you are looking at now.\n[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "b28e427928c4433316d1efbe28c91c7e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My Projects",
+        "menuTitle": "My Projects",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.\n\n![SimpleLanding](./gatsby-starter-simple-landing.png)\n\n### SimpleLanding\n\nAs the name says, it is a landing page starter.\n[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)\n\n![StyledBlog](./gatsby-styled-blog-starter.jpg)\n\n### StyledBlog\n\nThat was my first Gatsby starter. It is a forefather of the starter you are looking at now.\n[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md",
+      "fields": {
+        "slug": "/starters/",
+        "prefix": "2"
       }
     },
     "SitePage /offline-plugin-app-shell-fallback/": {
@@ -3171,19 +3155,63 @@
       "jsonName": "offline-plugin-app-shell-fallback.json",
       "internalComponentName": "ComponentOfflinePluginAppShellFallback",
       "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "component": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
       "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentPath": "/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline/app-shell.js",
       "id": "SitePage /offline-plugin-app-shell-fallback/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a76add8d127172910e915efa905e81aa",
+        "contentDigest": "e10def2f089642fb9d3561ae3605bb5a",
         "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Vikas/learning/my_github_page/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "98e5c3bc2b384bfde5081aee04db11e1",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /success/": {
+      "layout": "index",
+      "jsonName": "success.json",
+      "internalComponentName": "ComponentSuccess",
+      "path": "/success/",
+      "component": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/success/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
+      "id": "SitePage /success/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4c5977e04d62badd0dbd8114a9c87caf",
+        "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
@@ -3192,20 +3220,20 @@
       "jsonName": "about.json",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
+      "component": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
       "componentChunkName": "component---src-templates-page-template-js",
       "context": {
         "slug": "/about/"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a52ad30bf463e1269db54166ecf6d54d",
+        "contentDigest": "3f8274cac0dd519f058d755e3e177e3d",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -3215,65 +3243,21 @@
       "jsonName": "starters.json",
       "internalComponentName": "ComponentStarters",
       "path": "/starters/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
+      "component": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
       "componentChunkName": "component---src-templates-page-template-js",
       "context": {
         "slug": "/starters/"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js",
       "id": "SitePage /starters/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a07b0515a2ab8282efda436c99681c75",
+        "contentDigest": "26aa44f0ffcf28435cf5c51f0119f2c4",
         "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /success/": {
-      "layout": "index",
-      "jsonName": "success.json",
-      "internalComponentName": "ComponentSuccess",
-      "path": "/success/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/success/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/templates/PageTemplate.js",
-      "id": "SitePage /success/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c140e8034b3801807b2ff70d0f547f22",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b41a61f9784a904b60273c107442aac9",
-        "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
     },
@@ -3282,18 +3266,18 @@
       "jsonName": "contact.json",
       "internalComponentName": "ComponentContact",
       "path": "/contact/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/pages/contact.js",
+      "component": "/Users/Vikas/learning/my_github_page/src/pages/contact.js",
       "componentChunkName": "component---src-pages-contact-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/pages/contact.js",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/pages/contact.js",
       "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d0235e774e649b60615104bcf55c362a",
+        "contentDigest": "89f6e89be0043d062c3a636377c3b3b8",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -3303,20 +3287,47 @@
       "jsonName": "search.json",
       "internalComponentName": "ComponentSearch",
       "path": "/search/",
-      "component": "/Users/Vikas/learning/vkylamba.github.io/src/pages/search.js",
+      "component": "/Users/Vikas/learning/my_github_page/src/pages/search.js",
       "componentChunkName": "component---src-pages-search-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Vikas/learning/vkylamba.github.io/src/pages/search.js",
+      "componentPath": "/Users/Vikas/learning/my_github_page/src/pages/search.js",
       "id": "SitePage /search/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "36eedd5a34cc905556717239b8aab6bd",
+        "contentDigest": "64bec1cdefeb697ba68071566db3900f",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: About\n---\n\n\nI am a graduate from BK Birla Institute of Engineering & Technology Pilani, India, with a B.Tech in Information Technology. I am active in the filed of Web Technology, Renewable Energy(Solar), Electronics, Robotics, and Running.\n\n## My Interests:\n* Web Development\n* Renewable Energy\n* Robotics \n* Running\n\n## My Open Source Projects:\n  * MPPT Controller\n  * Energy monitoring System\n  * Open Robotics Board\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5d79c6c3ce6822b8c9c42305956ba55e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About",
+        "_PARENT": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file",
+        "parent": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n\nI am a graduate from BK Birla Institute of Engineering & Technology Pilani, India, with a B.Tech in Information Technology. I am active in the filed of Web Technology, Renewable Energy(Solar), Electronics, Robotics, and Running.\n\n## My Interests:\n* Web Development\n* Renewable Energy\n* Robotics \n* Running\n\n## My Open Source Projects:\n  * MPPT Controller\n  * Energy monitoring System\n  * Open Robotics Board\n",
+      "fileAbsolutePath": "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md",
+      "fields": {
+        "slug": "/about/",
+        "prefix": "1"
       }
     }
   },
@@ -3352,6 +3363,28 @@
         null
       ],
       "/Users/Vikas/learning/vkylamba.github.io/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp": [
+        null,
+        null
+      ],
+      "/Users/Vikas/learning/my_github_page/content/parts/footnote.md absPath of file >>> MarkdownRemark": [
+        "/about/",
+        "/starters/",
+        "/success/"
+      ],
+      "/Users/Vikas/learning/my_github_page/content/pages/1--about/index.md absPath of file >>> MarkdownRemark": [
+        "/about/"
+      ],
+      "/Users/Vikas/learning/my_github_page/content/pages/2--starters/index.md absPath of file >>> MarkdownRemark": [
+        "/starters/"
+      ],
+      "/Users/Vikas/learning/my_github_page/content/pages/success/index.md absPath of file >>> MarkdownRemark": [
+        "/success/"
+      ],
+      "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file": [
+        null,
+        null
+      ],
+      "/Users/Vikas/learning/my_github_page/content/posts/photo-1490474418585-ba9bad8fd0ea-cover.jpg absPath of file >> ImageSharp": [
         null,
         null
       ]
