@@ -7,20 +7,22 @@ exports.layouts = {
 }
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/Vikas/learning/my_github_page/node_modules/gatsby-plugin-offline/app-shell.js")),
-  "component---src-pages-index-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/pages/index.js")),
+  "component---src-templates-post-template-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/templates/PostTemplate.js")),
   "component---src-templates-page-template-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/templates/PageTemplate.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/Vikas/learning/my_github_page/.cache/dev-404-page.js")),
   "component---src-pages-contact-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/pages/contact.js")),
+  "component---src-pages-index-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/pages/index.js")),
   "component---src-pages-search-js": preferDefault(require("/Users/Vikas/learning/my_github_page/src/pages/search.js"))
 }
 
 exports.json = {
   "layout-index.json": require("/Users/Vikas/learning/my_github_page/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("/Users/Vikas/learning/my_github_page/.cache/json/offline-plugin-app-shell-fallback.json"),
-  "index.json": require("/Users/Vikas/learning/my_github_page/.cache/json/index.json"),
-  "success.json": require("/Users/Vikas/learning/my_github_page/.cache/json/success.json"),
+  "customize-personal-blog-starter.json": require("/Users/Vikas/learning/my_github_page/.cache/json/customize-personal-blog-starter.json"),
   "about.json": require("/Users/Vikas/learning/my_github_page/.cache/json/about.json"),
   "starters.json": require("/Users/Vikas/learning/my_github_page/.cache/json/starters.json"),
+  "success.json": require("/Users/Vikas/learning/my_github_page/.cache/json/success.json"),
+  "dev-404-page.json": require("/Users/Vikas/learning/my_github_page/.cache/json/dev-404-page.json"),
   "contact.json": require("/Users/Vikas/learning/my_github_page/.cache/json/contact.json"),
+  "index.json": require("/Users/Vikas/learning/my_github_page/.cache/json/index.json"),
   "search.json": require("/Users/Vikas/learning/my_github_page/.cache/json/search.json")
 }
